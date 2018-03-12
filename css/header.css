@@ -1,0 +1,43 @@
+.section-header {
+    text-align: center;
+    padding: 5% 0 11% 0;
+    background: radial-gradient(at center bottom, #518153, #436d44) center;
+}
+
+.header_menu {
+	padding: 0 10% 10.2% 10%;
+}
+.logo_header {
+	float: left;
+    display: inline-block;
+}
+.menu_header {
+	float: right;
+    padding-top: 10px;
+    display: inline-block;
+}
+.menubutton {
+	color: #ffffff;
+    font-family: 'Conv_Myriad-Pro-Semibold';
+    font-size: 21px;
+    padding: 11px 19px;
+    border: 3px solid transparent;
+    text-decoration: none;
+
+}
+.menubutton:hover {
+    border: 3px solid #ffffff;
+}
+.header_comtent {
+	text-align: center;
+}
+.sweet {
+	color: #ffffff;
+    font-family: 'Conv_Myriad-Pro';
+    font-weight: 400;
+    font-size: 48px;
+    padding: 0 0 34px 0;
+}
+.watermellonshadow {
+	    width: auto;
+}

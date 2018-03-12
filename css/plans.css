@@ -1,0 +1,67 @@
+.container {
+	max-width: 950px;
+    margin: 0 auto;
+}
+.section_plans {
+	padding: 70px 0;
+    background-color: #e9ede9;
+    text-align: center;
+}
+.plan_header {
+    text-align: center;
+     padding: 10px 0 10px 0;
+}
+
+.title_plans {
+	font-family: 'Conv_Myriad-Pro';
+    font-size: 47px;
+}
+.content_plans {
+    color: #737070;
+    font-family: 'Conv_Myriad-Pro';
+    font-size: 25px;
+    padding: 2% 0 5% 0;
+}
+.hydric_text {
+	color: #afacac;
+    font-family: 'Conv_Myriad-Pro';
+    font-size: 33px;
+    padding-top: 11.3%;
+
+}
+.price_block {
+	display: inline-block;
+    background-color: #d3cfcf;
+    width: 31%;
+    margin: 1%;
+    text-align: center;
+   
+}
+.price_content {
+	color: #4e4e4e;
+    font-family: 'Conv_Myriad-Pro';
+    font-size: 32px;
+    padding-top: 16.5%;
+}
+.price {
+	color: #b38e48;
+    font-family: 'Conv_Myriad-Pro';
+    font-size: 32px;
+    padding-top: 5.1%;
+    padding-bottom: 12.6%;
+}
+.price_button {
+	color: #e9ede9;
+    font-family: 'Conv_Myriad-Pro';
+    font-size: 16px;
+    display: inline-block;
+    line-height: 40px;
+    width: 113px;
+    background-color: #71ae5a;
+    border-radius: 13px;
+    margin: 0 0 41px 0;
+    text-decoration: none;
+}
+.price_button:hover {
+    box-shadow: 0 0 10px black;
+}
